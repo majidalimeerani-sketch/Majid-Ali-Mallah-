@@ -1,0 +1,6 @@
+{
+  "name": "MNS TUBE PRO - Android Video Downloader",
+  "description": "High-speed Android video and music downloader with Black & Neon Green theme, multi-format media playback, WhatsApp status saver, and private vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
